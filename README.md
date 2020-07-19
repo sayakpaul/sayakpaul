@@ -1,13 +1,11 @@
-### Hola, I'm Pawan Kumar! 👋
+### My name is Sayak Paul! 👾
 
-- 🔭 I’m currently working on Frontier Wallet.
-- 🌱 I’m currently learning Swift.
-- 👯 I’m looking to collaborate on Youtube.
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 🔭 I’m currently working at [PyImageSearch](https://www.pyimagesearch.com/) on computer vision and deep learning.
+- 🌱 I’m interested in the area of visual representation learning.
+- 👯 I’m always open to meaningful collaboration.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I love watching crime and action thrillers (The Silence of the Lambs being an all-time favorite one). 
+- 📫 More details about myself are available here - [sayak.dev](https://sayak.dev).
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=sayakpaul&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
