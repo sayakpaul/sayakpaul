@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at [PyImageSearch](https://www.pyimagesearch.com/) on computer vision and deep learning.
 - 🌱 I’m interested in the area of visual representation learning.
 - 👯 I’m always open to meaningful collaboration.
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His.
 - ⚡ Fun fact: I love watching crime and action thrillers (The Silence of the Lambs being an all-time favorite one). 
 - 📫 More details about myself are available here - [sayak.dev](https://sayak.dev).
 
