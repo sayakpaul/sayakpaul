@@ -1,6 +1,6 @@
 ### My name is Sayak Paul! 👾
 
-- 🔭 I’m currently working at [PyImageSearch](https://www.pyimagesearch.com/) on computer vision and deep learning.
+- 🔭 I’m currently working at [Carted](https://www.carted.com/) on computer vision and deep learning.
 - 🌱 I’m interested in the area of self-supervised representation learning.
 - 👯 I’m always open to meaningful collaborations.
 - 😄 Pronouns: He/His.
