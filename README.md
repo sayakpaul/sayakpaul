@@ -1,6 +1,6 @@
 ### My name is Sayak Paul! 👾
 
-- 🔭 I’m currently working at [Carted](https://www.carted.com/) as a Machine Learning Engineer.
+- 🔭 I’m currently working at [Hugging Face](https://hf.co) as a Developer Advocate Engineer.
 - 🌱 I’m interested in the area of representation learning (self-supervision, semi-supervision, model robustness).
 - 👯 I’m always open to meaningful collaborations.
 - 😄 Pronouns: He/His/Him.
