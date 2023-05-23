@@ -1,6 +1,6 @@
 ### My name is Sayak Paul! 👾
 
-- 🔭 I’m currently working at [Hugging Face](https://hf.co) as a Developer Advocate Engineer.
+- 🔭 I work on [🧨 diffusers](https://github.com/huggingface/diffusers/) at Hugging Face.
 - 🌱 I’m interested in the area of representation learning (self-supervision, semi-supervision, model robustness).
 - 👯 I’m always open to meaningful collaborations.
 - 😄 Pronouns: He/His/Him.
