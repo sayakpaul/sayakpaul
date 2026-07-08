@@ -1,12 +1,1 @@
-### My name is Sayak Paul! 👾
-
-- 🔭 I work on [🧨 diffusion models](https://github.com/huggingface/diffusers/) at Hugging Face 🤗
-- 🌱 I’m interested in the area of representation learning.
-- 👯 I’m always open to meaningful collaborations.
-- ⚡ Fun fact: I love watching crime and action thrillers (The Silence of the Lambs being an all-time favorite one). 
-- 🙃 Recepient of the Google Open Source Peer Bonus Award ([2020](https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html), [2021](https://opensource.googleblog.com/2021/09/announcing-latest-open-source-peer-bonus-winners.html), and [2022](https://opensource.googleblog.com/2022/09/announcing-the-second-group-of-open-source-peer-bonus-winners-in-2022.html)). Also received the [TensorFlow Top Contributor Award 2021](https://blog.tensorflow.org/2021/11/2021-TF-Contributor-Awardees.html?linkId=8010214).
-- 📫 More details - [sayak.dev](https://sayak.dev).
-
-<img src="https://github-readme-stats.vercel.app/api?username=sayakpaul&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
-Following are some of my favorite repositories that I have contributed to and/or contribute to. 
+### My name is Sayak Paul! 👾 I am currently working at Hugging Face as a Research Engineer. Refer to [my site](https://sayak.dev/) to find out more about me.
